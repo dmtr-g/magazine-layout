@@ -82,9 +82,9 @@ This was the freeCodeCamp CSS Grid magazine project. I pushed the styling well b
 
 Key things practised:
 
-- Outer CSS Grid with `minmax()` columns as a centring technique — cleaner than `max-width` + `margin: auto` for full-bleed sections
+- Outer CSS Grid with `minmax()` columns as a centring technique - cleaner than `max-width` + `margin: auto` for full-bleed sections
 - `column-width` for automatic multi-column text flow without hardcoding a column count
-- `::first-letter` pseudo-element for drop cap styling — applies only to the first letter of the first paragraph without any extra markup
+- `::first-letter` pseudo-element for drop cap styling - applies only to the first letter of the first paragraph without any extra markup
 - `background-clip: text` with an animated `background-position` to create the shimmer effect on blockquote text
 - Staggered `:nth-child` animation delays to give sequential entrance timing without JavaScript
 - `prefers-reduced-motion` to make the page accessible to users with vestibular disorders - disables all animations in one block
